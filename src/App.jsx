@@ -103,7 +103,7 @@ function App() {
 Disclaimer: These rules and regulations are subject to change at the discretion of the tournament organizers. Any changes will be communicated to the players before the start of the event.
 `  },
     3: {
-      title: "KV's GOT TALENT",
+      title: "KVP's GOT TALENT",
       title2: "General Rules",
       GenerelRules: `1.Time limit - 90 Seconds
 2.You can perform Anything , Any Genres (Just Show off your skills)
@@ -119,7 +119,7 @@ Disclaimer: These rules and regulations are subject to change at the discretion 
 3. There will be 3 levels 
 4. You can use Language's (English, Marathi,Hindi)
 5. Judge's Decision will be Final` },
-    5: { title: "BLIND BLIZZ", title2:"General Rules", GenerelRules:`1.Computers with screens turned off will be provided.
+    5: { title: "BLIND VENTURE", title2:"General Rules", GenerelRules:`1.Computers with screens turned off will be provided.
 
 2.A time limit will be set for typing the paragraph (e.g., 2 minutes). Any content typed after the allotted time will not be considered.
 
